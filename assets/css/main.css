@@ -783,7 +783,7 @@ ul.icons li a:hover {
   background-color: rgba(255, 255, 255, 0.075);
 }
 ul.icons li a:active {
-  background-color: rgba(255, 255, 255, 0.175);
+  background-color: rgba(183, 32, 32, 0.175);
 }
 
 /* Table */
@@ -882,7 +882,7 @@ input[type=reset]:active,
 input[type=button]:active,
 button:active,
 .button:active {
-  background-color: rgba(255, 255, 255, 0.175);
+  background-color: rgba(183, 32, 32, 0.175);
 }
 input[type=submit].icon:before,
 input[type=reset].icon:before,
@@ -1126,7 +1126,7 @@ body.is-preload #bg:before {
   background-color: rgba(255, 255, 255, 0.075);
 }
 #header nav ul li a:active {
-  background-color: rgba(255, 255, 255, 0.175);
+  background-color: rgba(183, 32, 32, 0.175);
 }
 #header nav.use-middle:after {
   content: "";
@@ -1289,7 +1289,7 @@ body.is-preload #header .content .inner {
   background-color: rgba(255, 255, 255, 0.075);
 }
 #main article .close:active:before {
-  background-color: rgba(255, 255, 255, 0.175);
+  background-color: rgba(183, 32, 32, 0.175);
 }
 @media screen and (max-width: 736px) {
   #main article {
